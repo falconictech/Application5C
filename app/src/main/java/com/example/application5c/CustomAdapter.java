@@ -65,10 +65,12 @@ public class CustomAdapter extends RecyclerView.Adapter<CustomAdapter.myviewhold
         public myviewholder(@NonNull View itemView) {
             super(itemView);
 
+            //first   lakldkasl
             name= itemView.findViewById(R.id.item_txt);
             img= itemView.findViewById(R.id.item_img);
 
 
+            //first commm
 
         }
 
